@@ -11,5 +11,4 @@ Now that you have all the libraries needed is as easy to run the program
 > Any ideas or modificatios will be thanked
 
 # DISCLAIMER
-- Progam in development a lot of agents are missing
 - I dont responsabilice if Riot clasifies this program as a hack and ban you.
