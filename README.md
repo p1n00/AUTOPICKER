@@ -2,7 +2,7 @@
 A software dedicated to automaticaly select the agent of your desire in Valorant 
 # GUIDE
 
-Before stariting to use this program check if you have installed the libraries needed for this program wich are:
+Before stariting to use this program check if you have installed the libraries needed for this program which are:
   - pyautogui
   - keyboard
   - tkinter
