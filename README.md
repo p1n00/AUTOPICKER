@@ -11,4 +11,4 @@ Now that you have all the libraries needed is as easy to run the program
 > Any ideas or modificatios will be thanked
 
 # DISCLAIMER
-- I dont responsabilice if Riot clasifies this program as a hack and ban you.
+- I dont take any responsability if Riot clasifies this program as a hack and ban you.
